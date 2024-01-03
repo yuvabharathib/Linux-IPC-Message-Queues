@@ -16,7 +16,7 @@ Write the C Program using Linux message queues API
 
 ### Step 3:
 
-Testing the C Program for the desired output. 
+Execute the C Program for the desired output. 
 
 # PROGRAM:
 
@@ -26,7 +26,7 @@ Testing the C Program for the desired output.
 
 
 
-##OUTPUT
+## OUTPUT
 
 
 
